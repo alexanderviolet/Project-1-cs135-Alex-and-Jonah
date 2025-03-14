@@ -30,5 +30,8 @@ arXiv preprint 2411.17593, version 3
 We are grateful to these authors for making the dataset available. 
 
 Links and Descriptions of Useful Websties:
-<!-- TODO -->
+Report Document:
+https://docs.google.com/document/d/1qbn1-BBOd9AuWRTHdYUhY5PqvWaaq7zh-7Vjb5QIxNU/edit?usp=sharing
+
+How to filter:
 https://medium.com/swlh/text-classification-using-the-bag-of-words-approach-with-nltk-and-scikit-learn-9a731e5c4e2f
