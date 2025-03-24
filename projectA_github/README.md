@@ -35,3 +35,6 @@ https://docs.google.com/document/d/1qbn1-BBOd9AuWRTHdYUhY5PqvWaaq7zh-7Vjb5QIxNU/
 
 How to filter:
 https://medium.com/swlh/text-classification-using-the-bag-of-words-approach-with-nltk-and-scikit-learn-9a731e5c4e2f
+
+How BERT works:
+https://medium.com/@dhartidhami/understanding-bert-word-embeddings-7dc4d2ea54ca
