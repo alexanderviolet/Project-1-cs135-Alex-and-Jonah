@@ -38,3 +38,6 @@ https://medium.com/swlh/text-classification-using-the-bag-of-words-approach-with
 
 How BERT works:
 https://medium.com/@dhartidhami/understanding-bert-word-embeddings-7dc4d2ea54ca
+
+MLP Documentation:
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
